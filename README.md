@@ -163,6 +163,8 @@ Copyright (c) 2015-2021 The ISC Authors
 
 ## Homework
 
+Аналогично ЛР4 .yml файлы находятся в /.github/workflows/
+
 ## Part I
 
 Копируем папку banking и её содержимое:
